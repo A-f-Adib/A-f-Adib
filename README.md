@@ -1,4 +1,4 @@
-<img src="https://trisya.com/myimg/child/Website%20Design.gif">
+<img src="https://www.createwithswift.com/content/images/2022/03/createwithswift.com-using-a-UISheetPresentationController-in-SwiftUI-001.gif">
 <h1 align="center">Hi 👋, I'm A.f. Adib</h1>
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Web Development**
+
 
 - 📫 How to reach me **a.f.adib36@gmail.com**
 
