@@ -1,4 +1,4 @@
-<img height="400" width= "1000" src="https://skywell.software/wp-content/uploads/2019/03/swift-programming-1024x455.jpg">
+<img height="300" width= "1000" src="https://skywell.software/wp-content/uploads/2019/03/swift-programming-1024x455.jpg">
 
 
 <h1 align="center">Hi, I'm A.F. Adib</h1>
