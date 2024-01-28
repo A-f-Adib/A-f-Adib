@@ -1,5 +1,45 @@
-<img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
-<h1 align="center">Hi 👋, I'm A.f. Adib</h1>
+# A.F. Adib
+
+I'm passionate about creating delightful and efficient iOS applications. Below, you'll find a glimpse of my skills, projects, and education.
+
+### Skills
+- **Languages:** Swift, C, C++, Mysql
+- **Development Tools:** Xcode, Git
+- **Frameworks:** SwiftUI, Core Data, Core Image, Mapkit, CoreLocation, CodeScanner, PhotosUI, UserNotifications.
+- **Design Patterns:** MVVM 
+- **Version Control:** Git
+
+### Education
+- **Bachelor of Science in Computer Science**
+  - Rangpur Engineering College, Rangpur
+  - Session(2019-20)
+
+### Projects
+
+#### WeatherApp ☁️
+- A simple iOS weather app to check real-time weather information.
+- Implemented using Swift, UIKit, and RESTful APIs.
+- [GitHub Repo](link-to-repo)
+
+#### TaskManager 📋
+- A to-do list app for managing tasks and deadlines.
+- Utilized Core Data for local data storage.
+- [GitHub Repo](link-to-repo)
+
+### Certifications
+- **iOS Development Fundamentals**
+  - Online Course Platform
+  - [Month Year]
+  - 
+
+### Contact
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- GitHub: [Your GitHub Profile](link-to-github)
+- Email: your.email@example.com
+- Portfolio: [Your Portfolio Website](link-to-portfolio)
+
+Feel free to reach out for collaboration or discussions about iOS development! Let's build something amazing together. 🚀
+
 
 
 
