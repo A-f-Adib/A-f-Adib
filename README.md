@@ -1,5 +1,5 @@
-<img height="350" width= "1000" src="https://static.vecteezy.com/system/resources/previews/015/616/577/non_2x/swift-code-programming-language-with-script-code-on-laptop-screen-graphic-free-vector.jpg">
 
+<img height="350" width= "1000" src="https://github.com/user-attachments/assets/8d4b51e4-edc2-44a6-acf7-1d0c8b817067">
 
 <h1 align="center">Hi, I'm A.F. Adib</h1>
 <h3 align="center">I'm passionate about creating delightful and efficient iOS applications. Below, you'll find a glimpse of my skills and projects.</h3>
@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-f-adib&show_icons=true&locale=en&layout=compact" alt="a-f-adib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-f-adib&show_icons=true&locale=en" alt="a-f-adib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-f-adib&" alt="a-f-adib" /></p>
