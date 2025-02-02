@@ -1,5 +1,5 @@
 
-<img height="300" width= "1000" src="https://github.com/user-attachments/assets/8d4b51e4-edc2-44a6-acf7-1d0c8b817067">
+<img height="280" width= "1200" src="https://github.com/user-attachments/assets/8d4b51e4-edc2-44a6-acf7-1d0c8b817067">
 
 <h1 align="center">Hi, I'm A.F. Adib</h1>
 <h3 align="center">I'm passionate about creating delightful and efficient iOS applications. Below, you'll find a glimpse of my skills and projects.</h3>
